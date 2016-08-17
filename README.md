@@ -1,6 +1,6 @@
 # traffic-signal-control-app-experiments
 
-Raw data from experiments with the CST Machine Consciousness Traffic Signal Control Application
+Raw data from experiments with the CST Machine Consciousness Traffic Signal Control Application. The experiments are detailed in the PhD thesis available at [PhD Thesis - A machine consciousness approach to urban traffic signal control](https://www.researchgate.net/publication/304076563_A_machine_consciousness_approach_to_urban_traffic_signal_control?channel=doi&linkId=57657a4d08ae421c4489d260&showFulltext=true)
 
 ## Contents
 
